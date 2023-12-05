@@ -1,0 +1,101 @@
+body{
+    background-image: url(/HTML/Lesson-10/back-1.jpg);
+
+}
+.card{
+    width: 810px;
+    height: 630px;
+    display: flex;
+    background-color: #ffff;
+    margin: 0 auto;
+    box-shadow: 3px 3px 30px black;
+}
+.photo{
+    width: 390px;
+    height: 630px;
+    background-color: #f7ebe4;
+}
+.photo1{
+    height: 460px;
+    margin-top: 78px;
+    margin-left: 48px;
+}
+.content{
+    margin: o;
+    padding: 0;
+}
+.content2{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.grade{
+    display: flex;
+}
+.grade img{
+    height: 20px;
+    width: 70px;
+    
+}
+.review{
+    margin-right: 36px;
+}
+
+
+.name{
+    display: flex;
+    
+}
+.name1{
+    font-weight: bold;
+}
+.name2{
+    margin-left: 60px;
+    
+}
+.price{
+    font-size: 40px;
+    color: #4493a0;
+}
+.sale{
+    display: flex;
+}
+.sale1{
+    text-decoration: line-through;
+    font-size: 15px;
+}
+.sale2{
+    margin-left: 40px;
+    color: #55a32a;
+    font-size: 14px;
+}
+.b1{
+    width: 130px;
+    height: 50px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #55a32a;
+    border: 0;
+    border-radius: 7px;
+}
+.b2{
+    width: 210px;
+    height: 50px;
+    margin-left: 12px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #2d91a1;
+    border: 0;
+    border-radius: 7px;
+}
+.icon{
+    display: flex;
+}
+.social{
+    width: 30px;
+    height: 30px;
+}
+.teleg,.inst,.face,.gml{
+    margin-left: 5px;
+}
